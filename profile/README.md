@@ -12,7 +12,7 @@
       </div>
     </td>
     <td style="vertical-align: middle;">
-      <h1 style="margin:0;">NISHANTH MURTHY KOTTAPALLI</h1>
+      <h1 style="margin:0;">NISHANTH KONSULTANCY</h1>
       <a href="https://www.linkedin.com/nishanthkottapalli">
         <img id="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="height:14px;width:auto;display:inline" alt="Linkedin icon" />
         Hands-on Systems &amp; AI Infrastructure Architect
