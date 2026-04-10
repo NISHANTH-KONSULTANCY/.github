@@ -1,3 +1,4 @@
+# NISHANTH KONSULTANCY
 <table>
   <tr>
     <td style="vertical-align: middle; padding-right: 16px;">
@@ -12,16 +13,14 @@
       </div>
     </td>
     <td style="vertical-align: middle;">
-      <h1 style="margin:0;">NISHANTH KONSULTANCY</h1>
+      <h2 style="margin:0;">NISHANTH MURTHY KOTTAPALLI</h2>
       <a href="https://www.linkedin.com/nishanthkottapalli">
         <img id="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="height:14px;width:auto;display:inline" alt="Linkedin icon" />
-        Hands-on Systems &amp; AI Infrastructure Architect
+        Systems &amp; AI Infrastructure Architect
       </a>
     </td>
   </tr>
 </table>
-
----
 
 I build **reproducible, production-grade systems** for teams that have outgrown ad-hoc workflows.
 
@@ -29,6 +28,7 @@ That usually means turning **click-ops, tribal knowledge, and fragile prototypes
 
 This GitHub org is where we publish **reference implementations, playbooks, and NDA-safe engineering artifacts** drawn from real-world systems work.
 
+---
 **Current engagements / partnerships:** RetroKrafters, ROImantics, Fractions Infra.
 
 ---
