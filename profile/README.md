@@ -1,4 +1,4 @@
-NISHANTH KONSULTANCY
+# NISHANTH KONSULTANCY
 
 <table>
   <tr>
@@ -27,9 +27,11 @@ NISHANTH KONSULTANCY
       </p>
     </td>
   </tr>
-</table>---
+</table>
 
-What We Do
+---
+
+## What We Do
 
 Nishanth Konsultancy helps B2B SaaS, AI-driven companies, cloud/data teams, and enterprise-facing startups turn fragile infrastructure and experiments into stable, revenue-producing products.
 
@@ -58,7 +60,7 @@ This GitHub organization is where we publish reference implementations, playbook
 
 ---
 
-Main Website
+## Main Website
 
 Website: "nishanthkonsultancy.com" (https://nishanthkonsultancy.com)
 
@@ -79,11 +81,11 @@ Core services:
 
 ---
 
-What You'll Find Here
+## What You'll Find Here
 
 Reproducible systems. Practical tradeoffs. Mechanism-driven engineering.
 
-Infrastructure & Cloud Operations
+### Infrastructure & Cloud Operations
 
 - Terraform-first workflows
 - Drift detection, control, and audit trails
@@ -91,7 +93,7 @@ Infrastructure & Cloud Operations
 - CI/CD, deployment hardening, and operational guardrails
 - “Boring” infrastructure patterns that scale because they are understandable
 
-AI / ML Systems
+### AI / ML Systems
 
 - End-to-end delivery: experimentation → serving → operations
 - RAG, LLM, and model-serving architecture patterns
@@ -100,7 +102,7 @@ AI / ML Systems
 - GPU-aware and OpenAI-compatible deployment thinking
 - Managed API vs self-hosted inference tradeoffs, including vLLM-oriented architectures
 
-DevSecOps & Enterprise Readiness
+### DevSecOps & Enterprise Readiness
 
 - Security questionnaire readiness
 - Cloud audit trails and evidence collection
@@ -108,7 +110,7 @@ DevSecOps & Enterprise Readiness
 - Logging, monitoring, backups, and incident-readiness patterns
 - Practical gap analysis for enterprise-facing SaaS and AI teams
 
-Systems & Performance Engineering
+### Systems & Performance Engineering
 
 - Systems primitives: state, streams, schedulers, mechanics
 - Hybrid CPU–GPU architectures
@@ -116,7 +118,7 @@ Systems & Performance Engineering
 - Real-time data and low-latency patterns, often with Redis
 - Failure-aware architecture and recovery-oriented design
 
-Applied Engineering Labs
+### Applied Engineering Labs
 
 - Multiplayer backend systems and real-time game services
 - Computer vision pipelines and edge inference
@@ -128,7 +130,7 @@ Everything here is mechanism-driven, not demo-driven.
 
 ---
 
-Koop
+## Koop
 
 Koop is the Nishanth Konsultancy assistant.
 
@@ -145,6 +147,7 @@ Initial role:
 
 Longer-term architecture:
 
+```
 Static MkDocs sites
         ↓
 Koop frontend widget
@@ -154,7 +157,7 @@ FastAPI backend
 hybrid-rag retrieval engine
         ↓
 OpenAI now / vLLM-compatible provider later
-
+```
 Koop is also a live demonstration of how we think about AI systems:
 
 - Simple frontend
@@ -166,7 +169,7 @@ Koop is also a live demonstration of how we think about AI systems:
 
 ---
 
-Readiness Hub
+## Readiness Hub
 
 We are rebuilding the existing digital sovereignty assessment tool as:
 
@@ -188,7 +191,7 @@ It is a preliminary technical self-assessment, not legal advice, compliance cert
 
 ---
 
-TF-141 Labs
+## TF-141 Labs
 
 TF-141 Labs is our applied engineering lab within this organization.
 
@@ -203,7 +206,7 @@ The lab exists to keep the engineering practice sharp, practical, and inspectabl
 
 ---
 
-How to Use This Organization
+## How to Use This Organization
 
 - Start with each repository’s README — context matters.
 - Treat repos as reference implementations, not copy-paste templates.
@@ -215,7 +218,7 @@ If something looks boring, it is probably intentional.
 
 ---
 
-Want a Quick Sanity Check on Your Stack?
+> Want a Quick Sanity Check on Your Stack?
 
 If your cloud, data, SaaS, DevSecOps, or AI setup feels fragile, Nishanth Konsultancy can help with a practical diagnostic:
 
