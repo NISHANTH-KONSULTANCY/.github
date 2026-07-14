@@ -32,9 +32,8 @@ or independent review requires additional expertise.
 
 ## Properties
 
-- nishanthkonsultancy.com
-- readiness.nishanthkonsultancy.com
-- digital-sovereignty-assessment.nishanthkonsultancy.com
+- [Corporate Site](https://nishanthkonsultancy.com)
+- [Digital Sovereignty Assessment](https://digital-sovereignty-assessment.nishanthkonsultancy.com)
 
 ## Contact
 
