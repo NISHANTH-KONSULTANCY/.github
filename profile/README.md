@@ -4,10 +4,11 @@ Principal-led technology consulting for SaaS, AI, and cloud teams.
 
 ## What we do
 
-- Embedded Engineering & Technical Leadership
+- Technical Advice for Leadership
+- Embedded Engineering
 - Cloud & Platform Engineering
 - AI Infrastructure
-- Security Validation & Enterprise Readiness
+- Security Validation & Enterprise Readiness Audit
 - Diagnostics & Assessments
 - Training & Enablement
 
@@ -21,12 +22,12 @@ Principal-led technology consulting for SaaS, AI, and cloud teams.
 
 ## Public repositories
 
-This organisation hosts the practice's websites, assessment tools,
-reference implementations, consulting playbooks, and NDA-safe technical artefacts.
+This organization hosts the practice's websites, assessment tools,
+reference implementations, consulting playbooks, and NDA-safe technical artifacts.
 
 ## Operating model
 
-Every core engagement is led by Nishanth Kottapalli.
+Every core engagement is led by Nishanth Kottapalli and senior experts.
 Specialist collaborators are engaged where scope, regulation,
 or independent review requires additional expertise.
 
